@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://beesmart-expense-tracker.netlify.app/">
+ <a href="https://beesmart-todo-list.netlify.app/">
   <img src="https://img.shields.io/badge/See-live-brightgreen?style=for-the-badge" alt="See live icon">
  </a>
  <a href="https://github.com/luciano-ilha/react-todo-list/issues">
@@ -28,11 +28,11 @@
     <a href="https://github.com/luciano-ilha/react-todo-list"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/luciano-ilha/react-todo-list">View Demo</a>
+    <a href="https://beesmart-todo-list.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/luciano-ilha/react-todo-list/issues">Report Bug</a>
     ·
-    <a href="https://github.com/luciano-ilha/react-todo-list/issues">Request Feature</a>
+    <a href="https://github.com/luciano-ilha/react-todo-list/pulls">Request Feature</a>
   </p>
 </p>
 
@@ -75,7 +75,7 @@ A To-Do List built with React.
 
 ### 🔭 Live Demo
 
-<a href="https://beesmart-expense-tracker.netlify.app/">
+<a href="https://beesmart-todo-list.netlify.app/">
  <img src="https://img.shields.io/badge/See-live-brightgreen?style=for-the-badge" alt="See live icon">
 </a>
 
