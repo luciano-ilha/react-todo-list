@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="./src/images/LDGscshot.jpeg" alt="Screenshot">
+    <img src="./src/images/LDGscshot.jpeg" alt="Screenshot" height="400" width="600">
   </a>
 
   <h1 align="center">To Do List</h1>
