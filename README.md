@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="./src/images/react-todo-scshot.png" alt="Screenshot">
+    <img src="./src/images/LDGscshot.jpeg" alt="Screenshot">
   </a>
 
   <h1 align="center">To Do List</h1>
